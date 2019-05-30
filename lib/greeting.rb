@@ -1,3 +1,3 @@
 def greeting(name)
-  p "Hello #{name}. It's nice to meet you.".strip
+  p "Hello #{name\t}. It's nice to meet you.".strip
 end
